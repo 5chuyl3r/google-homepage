@@ -1,0 +1,9 @@
+ul {
+  text-decoration: none;
+  display: block;
+}
+
+li {
+  text-decoration: none;
+  display: inline;
+}
